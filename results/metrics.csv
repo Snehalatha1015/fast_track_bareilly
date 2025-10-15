@@ -1,0 +1,2 @@
+model,MAE,WAPE,sMAPE
+ridge_regression,4.71,45.57,50.61
