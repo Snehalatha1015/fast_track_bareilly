@@ -19,7 +19,7 @@ The pipeline cleans, resamples, and models hourly energy readings using a **Ridg
 ### ⚙️ Setup
 
 ```bash
-git clone https://github.com/<your-username>/fast_track_bareilly.git
+git clone https://github.com/Snehalatha1015/fast_track_bareilly.git
 cd fast_track_bareilly
 python -m venv venv
 source venv/bin/activate        # or venv\Scripts\activate on Windows
